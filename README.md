@@ -1,4 +1,5 @@
-[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
+[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2Faudacity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2Faudacity?ref=badge_shield)
+
 =========================
 
 [**Audacity**](https://www.audacityteam.org) is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Audacity is open source software licensed under GPL, version 2 or later.
@@ -22,3 +23,7 @@ Help with using Audacity is available from the [Audacity Forum](https://forum.au
 Build instructions are available [here](BUILDING.md).
 
 More information for developers is available from the [Audacity Wiki](https://wiki.audacityteam.org/wiki/For_Developers).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2Faudacity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2Faudacity?ref=badge_large)
